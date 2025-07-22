@@ -1,6 +1,13 @@
 # API Productos (Node.js + Express)
 
 API REST básica para manejar productos de una tienda (GET, POST, PUT, DELETE).
+ Integrantes:             Luis Valentín Gutiérrez Portillo      	    gp0125012020
+                          Bryan Ernesto Romero Orellana              	ro0279012020
+                          Jairo Vladimir Osorio Portillo              op1878012019
+                          Andrea Abigail Roldán Martinez              rm2411012019
+                         
+Docente:  Ing. Jose Serrano
+
 
 ## 🚀 Instalación
 ```bash
